@@ -1,11 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/chan9an">chan9an</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
-
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<!--
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me*** -->
 
 <!--<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/> -->
-
+<!--
 I am a Computer Science student in my third year, specializing in Machine Learning & AI 🤖. I have experience as a web developer in the restaurant industry and am always looking to strengthen my development skills while exploring new technologies. I love to learn, build, and create something new, creative, and fun.
 
 🌱 Currently Learning:
@@ -20,6 +20,7 @@ I enjoy helping others and working on exciting ideas. Feel free to reach out!
 🎮 Beyond Tech:
 When I’m not coding, I enjoy playing video games, listening to music. I also love football ⚽ and chess ♟️.
 <br>
+-->
   
 <!-- Profile Trophies -->
 <!--
