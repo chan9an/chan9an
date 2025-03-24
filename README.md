@@ -9,17 +9,16 @@
 I am a Computer Science student in my third year, specializing in Machine Learning & AI 🤖. I have experience as a web developer in the restaurant industry and am always looking to strengthen my development skills while exploring new technologies. I love to learn, build, and create something new, creative, and fun.
 
 🌱 Currently Learning:
-Rust 🦀 & Tauri ⚡ TypeScript
-
-Machine Learning & AI 🤖
-
+Rust 🦀 & Tauri 
+Typescript
+Machine Learning & AI 
 German 🇩🇪
 
 🚀 Open to new projects & collaborations!
 I enjoy helping others and working on exciting ideas. Feel free to reach out!
 
 🎮 Beyond Tech:
-When I’m not coding, I enjoy playing video games, listening to music, and jamming on my guitar 🎸. I also love football ⚽ and chess ♟️.
+When I’m not coding, I enjoy playing video games, listening to music. I also love football ⚽ and chess ♟️.
 <br>
   
 <!-- Profile Trophies -->
@@ -77,6 +76,7 @@ When I’m not coding, I enjoy playing video games, listening to music, and jamm
 
 
 ###### Database Management:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
