@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<!--<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/> -->
 
 I am a Computer Science student in my third year, specializing in Machine Learning & AI 🤖. I have experience as a web developer in the restaurant industry and am always looking to strengthen my development skills while exploring new technologies. I love to learn, build, and create something new, creative, and fun.
 
@@ -53,7 +53,7 @@ When I’m not coding, I enjoy playing video games, listening to music. I also l
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<img align="right" width=310px alt="Unicorn" src="https://tenor.com/mM9zIXYnDOd.gif"/>
+<!--<img align="right" width=310px alt="Unicorn" src="https://tenor.com/mM9zIXYnDOd.gif"/> -->
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
